@@ -1,0 +1,15 @@
+{
+    "name": "eman/solid-principle",
+    "authors": [
+        {
+            "name": "emaanmohamed",
+            "email": "eman.mohamed.ka@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "Classes"
+        }
+    }
+}
